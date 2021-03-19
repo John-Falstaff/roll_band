@@ -1,0 +1,25 @@
+{
+  "name": "roll_band",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "dev": "nodemon App.js",
+    "start": "node App.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/John-Falstaff/roll_band.git"
+  },
+  "author": "noo8xl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/John-Falstaff/roll_band/issues"
+  },
+  "homepage": "https://github.com/John-Falstaff/roll_band#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.1",
+    "nodemon": "^2.0.7"
+  }
+}
